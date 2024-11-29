@@ -2,13 +2,21 @@ Bloom is a dynamic e-commerce platform developed for selling natural personal ca
 
 
 
+BLOOM Home page
+
 ![home](https://github.com/user-attachments/assets/8d9d572f-6500-47ee-b605-f06494839f83)
 
 ![home2](https://github.com/user-attachments/assets/f48110c2-ab82-4a26-9f7d-779ea4f30a08)
 
+Products display page, can be filtered based on categories or subcategories
+
 ![product](https://github.com/user-attachments/assets/80a60728-e454-4800-8905-368a2f0bf190)
 
+Product details page
+
 ![productdetail](https://github.com/user-attachments/assets/a1824a88-18bc-4f8c-9e6c-e1a32f172924)
+
+Search functionality
 
 ![search](https://github.com/user-attachments/assets/0b4a6085-0928-42de-993d-f9ced7bf0cd5)
 
